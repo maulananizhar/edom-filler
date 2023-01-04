@@ -1,9 +1,9 @@
-// function autocomplete(){
-    
+//Function for create variables    
 function createVariables()
 {
     for ( i=1; i<=25; i++ )
     {
+        //create variables with DOM
         var str ="nilai"+ i+" = document.querySelectorAll(`#nilai_"+i+"`)";
         //Declaring and Setting dynamic variable to undefined using eval
         eval(str);
@@ -11,6 +11,7 @@ function createVariables()
 }
 createVariables();
 
+//The Answer
 nilai1[2].checked = true
 nilai2[1].checked = true
 nilai3[2].checked = true
