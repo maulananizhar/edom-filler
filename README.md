@@ -12,10 +12,9 @@ Follow the steps below
 - Enter this code
 
 ```javascript
-maintenance
-//fetch("https://raw.githubusercontent.com/lanakuge/edom-filler/main/bundle.js")
-//  .then((res) => res.text())
-//  .then((t) => eval(t));
+fetch("https://raw.githubusercontent.com/lanakuge/edom-filler/main/bundle.js")
+  .then((res) => res.text())
+  .then((t) => eval(t));
 ```
 
 - Take your own risk
