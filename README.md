@@ -2,7 +2,7 @@
 
 Automatic fill your University State of Jakarta EDOM
 
-# How to run
+## How to run
 
 Follow the steps below
 
