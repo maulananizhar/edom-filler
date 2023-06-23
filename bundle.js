@@ -1,7 +1,7 @@
 //Function for create variables    
 function createVariables()
 {
-    for ( i=1; i<=25; i++ )
+    for ( i=1; i<=24; i++ )
     {
         //create variables with DOM
         var str ="nilai"+ i+" = document.querySelectorAll(`#nilai_"+i+"`)";
