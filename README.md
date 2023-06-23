@@ -12,11 +12,10 @@ Follow the steps below
 - Enter this code
 
 ```javascript
-code is being updated
-//fetch("https://raw.githubusercontent.com/lanakuge/edom-filler/main/bundle.js")
-//.then((res) => res.text();
-//.then((t) => eval(t)));
+fetch("https://raw.githubusercontent.com/lanakuge/edom-filler/main/bundle.js")
+  .then((res) => res.text())
+  .then((t) => eval(t));
 ```
 
 - Take your own risk
-- This code was last updated on `January 3, 2023`
+- This code was last updated on `June 23, 2023`
