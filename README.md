@@ -18,4 +18,4 @@ fetch("https://raw.githubusercontent.com/lanakuge/edom-filler/main/bundle.js")
 ```
 
 - Take your own risk
-- This code was last updated on `June 23, 2023`
+- This code was last updated on `January 2, 2024`
